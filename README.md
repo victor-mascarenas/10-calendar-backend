@@ -1,6 +1,6 @@
 # Heroku deployment
 
-## Accessing resources
+## Accessing API resources
 
 1. Add app URL: https://<!--This is a comment-->mern-calendar-vm.herokuapp.com/
 2. Add resource.
@@ -26,3 +26,7 @@
 4. Full URL example.
 
         https://mern-calendar-vm.herokuapp.com/api/auth/new
+
+## Using App
+
+        https://mern-calendar-vm.herokuapp.com
